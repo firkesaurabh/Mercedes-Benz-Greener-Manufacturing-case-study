@@ -12,3 +12,5 @@ Testing system is very complex and has a number of possible features, its time-c
 The present work concludes data pre-processing as there some outlier in the data, will remove it using machine learning different approaches, identify the important feature to reduce the dimensionality reduction with different methods and will do some feature engineering and create the new features, to predicting the high score and reduce the testing time. 
 
 We will use the coefficient of determination aka R-squared metric. Finally, different regression and powerful ensemble methods chosen for the predict testing time in unseen data
+
+data source -- https://www.kaggle.com/c/mercedes-benz-greener-manufacturing
